@@ -81,6 +81,12 @@ hr.star-primary:after {
     color: #464646;
     background-color: #fff;
 }
+.hr-secondary
+{
+    max-width: 65px;
+    border-top: solid 3px;
+    text-align: center;
+}
 
 .img-centered {
     margin: 0 auto;
